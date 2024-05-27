@@ -4,6 +4,7 @@ Test task for iFortex company internship.
 Выполните следующее тестовое задание:
 
 Шаги:
+
 0) Скачать архив:
 https://drive.google.com/file/d/19MNCMUroSMifRRGKhKOQkyj8I1qn2n3t/view
 1) Развернуть и запустить приложение
@@ -14,6 +15,7 @@ https://drive.google.com/file/d/19MNCMUroSMifRRGKhKOQkyj8I1qn2n3t/view
 6) Залить исходный код на гитхаб, поделиться ссылкой на репозиторий
 
 Условие:
+
 а)
 1. Возвращать пользователя с самым большим количеством заказов
 2. Возвращать пользователей с статусом Inaсtive
